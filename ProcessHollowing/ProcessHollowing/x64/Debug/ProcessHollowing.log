@@ -1,0 +1,17 @@
+﻿  ProcessHollowing.cpp
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(72,78): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(94,71): warning C4302: 'type cast': truncation from 'LPVOID' to 'BYTE'
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(94,95): warning C4312: 'type cast': conversion from 'LONG' to 'PIMAGE_NT_HEADERS32' of greater size
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(98,5): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(112,5): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(116,79): warning C4302: 'type cast': truncation from 'LPVOID' to 'BYTE'
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(120,20): warning C4018: '<': signed/unsigned mismatch
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(121,111): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(121,136): warning C4302: 'type cast': truncation from 'LPVOID' to 'BYTE'
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(121,171): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(126,82): warning C4302: 'type cast': truncation from 'LPVOID' to 'BYTE'
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(126,117): warning C4312: 'type cast': conversion from 'DWORD' to 'PBASE_RELOCATION_BLOCK' of greater size
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(138,23): warning C4018: '<': signed/unsigned mismatch
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(146,134): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\ProcessHollowing\ProcessHollowing.cpp(149,134): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+  ProcessHollowing.vcxproj -> D:\courses\cybersecurity\Malwares\projects\ProcessHollowing\x64\Debug\ProcessHollowing.exe
